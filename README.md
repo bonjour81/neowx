@@ -1,4 +1,4 @@
-# NeoWX
+# Fork of NeoWX
 
 Welcome to NeoWX - the most advanced weewx theme.
 
